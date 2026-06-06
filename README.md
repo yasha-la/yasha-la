@@ -5,7 +5,8 @@ Aspiring systems/quantitative biologist. Passionate about mathematics. Strong pr
 
 **Mathematical Foundations:**
 > Calculus
-> 
+> Learning Linear Algebra
+
 <!--
 **yasha-la/yasha-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
