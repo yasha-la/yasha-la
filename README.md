@@ -1,11 +1,12 @@
 Aspiring systems/quantitative biologist. Passionate about mathematics. Strong proponent for Linux and free/open-source software.
 
 **Languages/Tools:**
-> Learning Python
-
+- Learning Python
+ 
 **Mathematical Foundations:**
-> Calculus
-> Learning Linear Algebra
+- Calculus
+- Discrete Mathematics
+- Learning Linear Algebra
 
 <!--
 **yasha-la/yasha-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
