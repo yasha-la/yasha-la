@@ -1,4 +1,10 @@
-hi
+Aspiring systems/quantitative biologist. Passionate about mathematics. Strong proponent for Linux and free/open-source software.
+
+Languages/Tools:
+> Learning Python
+
+Math:
+> Calculus
 <!--
 **yasha-la/yasha-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
