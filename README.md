@@ -3,8 +3,9 @@ Aspiring systems/quantitative biologist. Passionate about mathematics. Strong pr
 **Languages/Tools:**
 > Learning Python
 
-**Math:**
+**Mathematical Foundations:**
 > Calculus
+> 
 <!--
 **yasha-la/yasha-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
